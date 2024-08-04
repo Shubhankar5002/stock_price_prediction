@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import yfinance as yf
 
 st.title("Stock Price Predictor App")
-st.title("Stock Price Predictor App")
 
 stock = st.text_input("Enter the Stock ID", "GOOG")
 
